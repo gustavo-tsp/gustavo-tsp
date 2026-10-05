@@ -58,5 +58,5 @@ Jogo da velha para jogar direto no terminal.
 
 Se quiser trocar ideia sobre tecnologia, projetos ou oportunidades, me chama no [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-martins) ou no [Instagram](https://www.instagram.com/eo_tavvo/).
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavo-tsp&show_icons=true&theme=transparent&hide_border=true)](https://github.com/gustavo-tsp)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-tsp&layout=compact&theme=transparent&hide_border=true)](https://github.com/gustavo-tsp)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavo-tsp&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800)](https://github.com/gustavo-tsp)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-tsp&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800)](https://github.com/gustavo-tsp)
