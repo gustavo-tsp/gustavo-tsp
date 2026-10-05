@@ -46,12 +46,6 @@ Jogo da velha para jogar direto no terminal.
 
 `Terminal`
 
-### 💧 [Calculadora Hídrica](https://github.com/gustavo-tsp/Calculadora-hidrica-POO-APS)
-
-Aplicação desktop em JavaFX e SQLite para cálculo de consumo de água, análise de tarifas e metas sustentáveis da ONU.
-
-`Java` `JavaFX` `SQLite` `Maven`
-
 *Veja todos os repositórios em [github.com/gustavo-tsp](https://github.com/gustavo-tsp?tab=repositories)*
 
 ## 📚 Estudando agora
