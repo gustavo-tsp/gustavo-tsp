@@ -11,15 +11,15 @@ Estudante de Ciência da Computação, e gosto de tecnologia.
 ## Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação** na **UNIP**
-- 💻 Explorando **Back-End** e **Python**
+- 💻 Explorando **Back-End** e **Java**
 - 🚀 Construindo soluções com foco em **lógica**, **POO** e **bancos de dados**
 - 📍 São Paulo, SP 🇧🇷
 - 🎮 Tudo começou com a curiosidade: como um jogo funciona por dentro? Como um site é construído? Como um vídeo chega até a minha tela? Essas perguntas me levaram à tecnologia desde cedo, e nunca saí do caminho.
 
 ## 🛠️ Tecnologias e ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square&logoColor=white)
