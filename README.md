@@ -1,7 +1,6 @@
-
 # Oi, eu sou o Gustavo
 
-Estudante de Ciência da Computação, e gsoto de tecnologia.
+Estudante de Ciência da Computação, e gosto de tecnologia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moreira-martins)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavo-tsp)
@@ -28,6 +27,12 @@ Estudante de Ciência da Computação, e gsoto de tecnologia.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 🚀 Projetos em destaque
+
+### 💧 [Calculadora Hídrica](https://github.com/gustavo-tsp/Calculadora-hidrica-POO-APS)
+
+Aplicação desktop em JavaFX e SQLite para cálculo de consumo de água e metas sustentáveis.
+
+`Java` `JavaFX` `SQLite`
 
 ### 🧠 [Quiz no Terminal](https://github.com/gustavo-tsp/quiz-terminal)
 
