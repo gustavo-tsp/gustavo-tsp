@@ -1,6 +1,4 @@
-# Olá, eu sou o Gustavo 👋
-
-### Estudante de Ciência da Computação · Foco em Back-End
+# > Gustavo Martins_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moreira-martins)
 [![E-mail](https://img.shields.io/badge/E--mail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.moreira.m.17@gmail.com)
@@ -10,8 +8,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,py,c,cpp,mysql,git,github&perline=7" alt="Tecnologias: Java, Python, C, C++, MySQL, Git e GitHub" />
 </p>
-
----
 
 ## Sobre mim
 
