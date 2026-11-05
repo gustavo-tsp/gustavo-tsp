@@ -11,7 +11,7 @@
 
 Estudo Ciência da Computação na **UNIP**, em São Paulo, e estou construindo minha base para trabalhar com back-end. Comecei na programação por curiosidade sobre como jogos e sites funcionam por dentro. Hoje o que mais pratico é lógica de programação, orientação a objetos e banco de dados.
 
-- 🔭 Estudando: Java, SQL, estruturas de dados e algoritmos
+- 🔭 Estudando: Java, C, SQL, estruturas de dados e algoritmos
 - 🌱 Próximo objetivo: APIs e arquitetura back-end
 
 ---
@@ -39,8 +39,6 @@ Estudo Ciência da Computação na **UNIP**, em São Paulo, e estou construindo 
 Aplicação desktop com interface gráfica que calcula o consumo de água e acompanha metas de consumo sustentável. Projeto de POO com persistência em banco de dados.
 **Stack:** `Java` · `JavaFX` · `SQLite`
 
-<!-- Adicione aqui uma captura de tela: ![Calculadora Hídrica](caminho/da/imagem.png) -->
-
 ### 🧠 [Quiz no Terminal](https://github.com/gustavo-tsp/quiz-terminal)
 Jogo de perguntas e respostas em linha de comando, para praticar lógica condicional e laços de repetição.
 **Stack:** `Python` · `CLI`
@@ -63,4 +61,4 @@ Jogo da velha no terminal, usando matrizes e algoritmos de verificação de vit�
 
 ## Contato
 
-Quer conversar projetos? Me chame no [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-martins) ou por [e-mail](g.moreira.m.17@gmail.com.)
+Quer trocar uma ideia sobre tecnologia ou projetos? Me chame pelo [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-martins) ou pelo e-mail no topo da página.
