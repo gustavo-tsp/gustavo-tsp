@@ -49,8 +49,8 @@ Jogo da velha no terminal, usando matrizes e algoritmos de verificação de vit�
 ## Linguagens mais usadas
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-tsp&layout=compact&hide_border=true&theme=github_dark">
-  <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-tsp&layout=compact&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <img alt="Linguagens mais usadas" src="./profile/top-langs.svg">
 </picture>
 
 ## Contribuições
