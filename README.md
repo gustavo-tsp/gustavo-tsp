@@ -63,4 +63,4 @@ Jogo da velha no terminal, usando matrizes e algoritmos de verificação de vit�
 
 ## Contato
 
-Quer conversar projetos? Me chame no [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-martins) ou por [e-mail].(g.moreira.m.17@gmail.com.)
+Quer conversar projetos? Me chame no [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-martins) ou por [e-mail](g.moreira.m.17@gmail.com.)
