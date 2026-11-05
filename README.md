@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moreira-martins)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavo-tsp)
-![Visitas](https://komarev.com/ghpvc/?username=gustavo-tsp&color=blue&style=for-the-badge&label=VISITAS)
+[![Visitas](https://komarev.com/ghpvc/?username=gustavo-tsp&color=blue&style=for-the-badge&label=VISITAS)](https://komarev.com/ghpvc/?username=gustavo-tsp&color=blue&style=for-the-badge&label=VISITAS)
 
 ---
 
