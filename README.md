@@ -40,10 +40,8 @@ Jogo da velha no terminal, usando matrizes e algoritmos de verificação de vit�
 
 ---
 
-## Contribuições
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gustavo-tsp/gustavo-tsp/output/github-contribution-grid-snake.svg" alt="Animação das contribuições no GitHub" />
+  <img src="./arcade.svg" alt="Animação retrô de um robô em pixel art correndo e pulando obstáculos" />
 </div>
 
 ---
