@@ -3,7 +3,7 @@
 ### Estudante de Ciência da Computação · Foco em Back-End
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moreira-martins)
-[![E-mail](https://img.shields.io/badge/E--mail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavomoreiramartins17@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 ---
 
@@ -14,6 +14,8 @@ Estudo Ciência da Computação na **UNIP**, em São Paulo, e estou construindo 
 - 🔭 Estudando: Java, SQL, estruturas de dados e algoritmos
 - 🌱 Próximo objetivo: APIs e arquitetura back-end
 
+---
+
 ## Stack
 
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
@@ -23,6 +25,11 @@ Estudo Ciência da Computação na **UNIP**, em São Paulo, e estou construindo 
 ![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <img alt="Linguagens mais usadas nos meus repositórios" src="./profile/top-langs.svg">
+</picture>
 
 ---
 
@@ -46,13 +53,6 @@ Jogo da velha no terminal, usando matrizes e algoritmos de verificação de vit�
 
 ---
 
-## Linguagens mais usadas
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
-  <img alt="Linguagens mais usadas" src="./profile/top-langs.svg">
-</picture>
-
 ## Contribuições
 
 <div align="center">
@@ -63,4 +63,4 @@ Jogo da velha no terminal, usando matrizes e algoritmos de verificação de vit�
 
 ## Contato
 
-Quer trocar uma ideia sobre projetos? Me chame no [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-martins) ou por e-mail gustavomoreiramartins17@gmail.com.
+Quer conversar projetos? Me chame no [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-martins) ou por [e-mail].(g.moreira.m.17@gmail.com.)
