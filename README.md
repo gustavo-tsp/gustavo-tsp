@@ -63,4 +63,4 @@ Jogo da velha no terminal, usando matrizes e algoritmos de verificação de vit�
 
 ## Contato
 
-Quer trocar uma ideia sobre tecnologia ou projetos? Me chame no [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-martins) ou por e-mail (SEU_EMAIL_AQUI).
+Quer trocar uma ideia sobre projetos? Me chame no [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-martins) ou por e-mail gustavomoreiramartins17@gmail.com.
