@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" shape-rendering="crispEdges" role="img" aria-label="Gustavo Martins">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#1b1442"/></linearGradient>
+<linearGradient id="f" gradientUnits="userSpaceOnUse" x1="0" y1="37" x2="0" y2="93"><stop offset="0" stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<clipPath id="r"><rect width="1000" height="130" rx="14"/></clipPath>
+<path id="g0" d="M0 37h8v8h-8zM8 45h8v8h-8zM16 53h8v8h-8zM24 61h8v8h-8zM16 69h8v8h-8zM8 77h8v8h-8zM0 85h8v8h-8z"/><path id="g1" d="M8 37h24v8h-24zM0 45h8v8h-8zM32 45h8v8h-8zM0 53h8v8h-8zM32 53h8v8h-8zM0 61h40v8h-40zM0 69h8v8h-8zM32 69h8v8h-8zM0 77h8v8h-8zM32 77h8v8h-8zM0 85h8v8h-8zM32 85h8v8h-8z"/><path id="g2" d="M8 37h24v8h-24zM0 45h8v8h-8zM32 45h8v8h-8zM0 53h8v8h-8zM0 61h8v8h-8zM16 61h24v8h-24zM0 69h8v8h-8zM32 69h8v8h-8zM0 77h8v8h-8zM32 77h8v8h-8zM8 85h24v8h-24z"/><path id="g3" d="M8 37h24v8h-24zM16 45h8v8h-8zM16 53h8v8h-8zM16 61h8v8h-8zM16 69h8v8h-8zM16 77h8v8h-8zM8 85h24v8h-24z"/><path id="g4" d="M0 37h8v8h-8zM32 37h8v8h-8zM0 45h16v8h-16zM24 45h16v8h-16zM0 53h8v8h-8zM16 53h8v8h-8zM32 53h8v8h-8zM0 61h8v8h-8zM16 61h8v8h-8zM32 61h8v8h-8zM0 69h8v8h-8zM32 69h8v8h-8zM0 77h8v8h-8zM32 77h8v8h-8zM0 85h8v8h-8zM32 85h8v8h-8z"/><path id="g5" d="M0 37h8v8h-8zM32 37h8v8h-8zM0 45h16v8h-16zM32 45h8v8h-8zM0 53h8v8h-8zM16 53h8v8h-8zM32 53h8v8h-8zM0 61h8v8h-8zM24 61h16v8h-16zM0 69h8v8h-8zM32 69h8v8h-8zM0 77h8v8h-8zM32 77h8v8h-8zM0 85h8v8h-8zM32 85h8v8h-8z"/><path id="g6" d="M8 37h24v8h-24zM0 45h8v8h-8zM32 45h8v8h-8zM0 53h8v8h-8zM32 53h8v8h-8zM0 61h8v8h-8zM32 61h8v8h-8zM0 69h8v8h-8zM32 69h8v8h-8zM0 77h8v8h-8zM32 77h8v8h-8zM8 85h24v8h-24z"/><path id="g7" d="M0 37h32v8h-32zM0 45h8v8h-8zM32 45h8v8h-8zM0 53h8v8h-8zM32 53h8v8h-8zM0 61h32v8h-32zM0 69h8v8h-8zM16 69h8v8h-8zM0 77h8v8h-8zM24 77h8v8h-8zM0 85h8v8h-8zM32 85h8v8h-8z"/><path id="g8" d="M8 37h32v8h-32zM0 45h8v8h-8zM0 53h8v8h-8zM8 61h24v8h-24zM32 69h8v8h-8zM32 77h8v8h-8zM0 85h32v8h-32z"/><path id="g9" d="M0 37h40v8h-40zM16 45h8v8h-8zM16 53h8v8h-8zM16 61h8v8h-8zM16 69h8v8h-8zM16 77h8v8h-8zM16 85h8v8h-8z"/><path id="g10" d="M0 37h8v8h-8zM32 37h8v8h-8zM0 45h8v8h-8zM32 45h8v8h-8zM0 53h8v8h-8zM32 53h8v8h-8zM0 61h8v8h-8zM32 61h8v8h-8zM0 69h8v8h-8zM32 69h8v8h-8zM0 77h8v8h-8zM32 77h8v8h-8zM8 85h24v8h-24z"/><path id="g11" d="M0 37h8v8h-8zM32 37h8v8h-8zM0 45h8v8h-8zM32 45h8v8h-8zM0 53h8v8h-8zM32 53h8v8h-8zM0 61h8v8h-8zM32 61h8v8h-8zM0 69h8v8h-8zM32 69h8v8h-8zM8 77h8v8h-8zM24 77h8v8h-8zM16 85h8v8h-8z"/><path id="g12" d="M0 85h40v8h-40z"/>
+</defs>
+<style>
+.k{animation:p .01s steps(1) both}
+.b{animation:b 1s steps(1) infinite}
+.s{fill:#e2e8f0;animation:t 3s ease-in-out infinite}
+@keyframes p{from{opacity:0}to{opacity:1}}
+@keyframes b{50%{opacity:0}}
+@keyframes t{0%,100%{opacity:.2}50%{opacity:.9}}
+@media(prefers-reduced-motion:reduce){.k,.b,.s{animation:none}}
+</style>
+<g clip-path="url(#r)">
+<rect width="1000" height="130" fill="url(#g)"/>
+<rect class="s" x="40" y="22" width="3" height="3" style="animation-delay:-0.4s"/><rect class="s" x="150" y="100" width="3" height="3" style="animation-delay:-1.6s"/><rect class="s" x="330" y="16" width="3" height="3" style="animation-delay:-2.3s"/><rect class="s" x="560" y="112" width="3" height="3" style="animation-delay:-0.9s"/><rect class="s" x="760" y="20" width="3" height="3" style="animation-delay:-1.9s"/><rect class="s" x="880" y="96" width="3" height="3" style="animation-delay:-0.2s"/><rect class="s" x="960" y="40" width="3" height="3" style="animation-delay:-2.7s"/><rect class="s" x="20" y="80" width="3" height="3" style="animation-delay:-1.2s"/>
+<rect y="126" width="1000" height="4" fill="#22d3ee"/>
+<g class="k" style="animation-delay:0.35s"><use href="#g0" x="72" fill="#f472b6"/></g>
+<g class="k" style="animation-delay:0.48s"><use href="#g2" x="172" y="4" fill="#6d28d9" opacity=".6"/><use href="#g2" x="168" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:0.61s"><use href="#g10" x="220" y="4" fill="#6d28d9" opacity=".6"/><use href="#g10" x="216" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:0.74s"><use href="#g8" x="268" y="4" fill="#6d28d9" opacity=".6"/><use href="#g8" x="264" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:0.87s"><use href="#g9" x="316" y="4" fill="#6d28d9" opacity=".6"/><use href="#g9" x="312" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:1.0s"><use href="#g1" x="364" y="4" fill="#6d28d9" opacity=".6"/><use href="#g1" x="360" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:1.13s"><use href="#g11" x="412" y="4" fill="#6d28d9" opacity=".6"/><use href="#g11" x="408" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:1.26s"><use href="#g6" x="460" y="4" fill="#6d28d9" opacity=".6"/><use href="#g6" x="456" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:1.39s"><use href="#g4" x="556" y="4" fill="#6d28d9" opacity=".6"/><use href="#g4" x="552" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:1.52s"><use href="#g1" x="604" y="4" fill="#6d28d9" opacity=".6"/><use href="#g1" x="600" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:1.65s"><use href="#g7" x="652" y="4" fill="#6d28d9" opacity=".6"/><use href="#g7" x="648" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:1.78s"><use href="#g9" x="700" y="4" fill="#6d28d9" opacity=".6"/><use href="#g9" x="696" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:1.91s"><use href="#g3" x="748" y="4" fill="#6d28d9" opacity=".6"/><use href="#g3" x="744" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:2.04s"><use href="#g5" x="796" y="4" fill="#6d28d9" opacity=".6"/><use href="#g5" x="792" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:2.17s"><use href="#g8" x="844" y="4" fill="#6d28d9" opacity=".6"/><use href="#g8" x="840" fill="url(#f)"/></g>
+<g class="k" style="animation-delay:2.3s"><g class="b"><use href="#g12" x="888" fill="#22d3ee"/></g></g>
+</g>
+</svg>
