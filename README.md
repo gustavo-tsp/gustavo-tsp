@@ -3,7 +3,7 @@
 ### Estudante de Ciência da Computação · Foco em Back-End
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moreira-martins)
-[![E-mail](https://img.shields.io/badge/E--mail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![E-mail](https://img.shields.io/badge/E--mail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.moreira.m.17@gmail.com)
 
 ---
 
