@@ -7,29 +7,18 @@
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,mysql,git,github&perline=7" alt="Tecnologias: Java, Python, C, C++, MySQL, Git e GitHub" />
+</p>
+
+---
+
 ## Sobre mim
 
 Estudo Ciência da Computação na **UNIP**, em São Paulo, e estou construindo minha base para trabalhar com back-end. Comecei na programação por curiosidade sobre como jogos e sites funcionam por dentro. Hoje o que mais pratico é lógica de programação, orientação a objetos e banco de dados.
 
 - 🔭 Estudando: Java, C, SQL, estruturas de dados e algoritmos
 - 🌱 Próximo objetivo: APIs e arquitetura back-end
-
----
-
-## Stack
-
-![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-4b8bbe?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
-  <img alt="Linguagens mais usadas nos meus repositórios" src="./profile/top-langs.svg">
-</picture>
 
 ---
 
@@ -61,4 +50,4 @@ Jogo da velha no terminal, usando matrizes e algoritmos de verificação de vit�
 
 ## Contato
 
-Quer trocar uma ideia sobre tecnologia ou projetos? Me chame pelo [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-martins) ou pelo e-mail no topo da página.
+Quer sobre projetos? Me chame pelo [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-martins) ou pelo e-mail no topo da página.
