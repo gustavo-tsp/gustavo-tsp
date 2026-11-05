@@ -1,8 +1,6 @@
 # Olá, eu sou o Gustavo 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=false&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Estudante+de+Ciência+da+Computação;Foco+em+Java,+Python+e+SQL" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=false&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Estudante+de+Ciência+da+Computação;Foco+em+Java,+Python+e+SQL" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moreira-martins)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavo-tsp)
