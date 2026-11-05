@@ -12,8 +12,8 @@
 
 Sou estudante de Ciência da Computação na **UNIP** (São Paulo, SP), focado na construção de aplicações Back-End eficientes. Minha jornada na programação começou com a curiosidade de entender o funcionamento interno de jogos e sistemas web, o que me levou a desenvolver uma base sólida em **Lógica de Programação, Orientação a Objetos (POO) e Bancos de Dados**.
 
-* 🔭 Atualmente explorando o ecossistema **Java** e aprimorando fundamentos em **C** e **SQL**.
-* 💡 Foco em escrever código limpo e resolver problemas estruturais.
+🔭 Atualmente explorando o ecossistema **Java** e aprimorando fundamentos em **C** e **SQL**.
+💡 Foco em escrever código limpo e resolver problemas estruturais.
 
 <details>
   <summary><strong>📚 Clique para ver meus focos de estudo atuais</strong></summary>
